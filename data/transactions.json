@@ -1,0 +1,7 @@
+[
+  { "Id": 3, "Name": "iPhone", "Category": "phone", "Cost": 950, "CustomerId": 1 },
+  { "Id": 3, "Name": "Charger", "Category": "power", "Cost": 25, "CustomerId": 1 },
+  { "Id": 4, "Name": "Apples", "Category": "fruit", "Cost": 7.5, "CustomerId": 2 },
+  { "Id": 4, "Name": "Bananas", "Category": "fruit", "Cost": 5.45, "CustomerId": 2 },
+  { "Id": 5, "Name": "Carrots", "Category": "vegetable", "Cost": 9.97, "CustomerId": 2 }
+]
